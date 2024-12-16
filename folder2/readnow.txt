@@ -3,3 +3,4 @@ adding stuff!
 new stuff.
 another line.
 release one
+adding new line to see if merge conflict will happen after changing file location.
